@@ -3,7 +3,14 @@
 This project is a comprehensive relational database design for an e-commerce platform. It includes an Entity-Relationship Diagram (ERD) and the full SQL schema implementation. The database is built to support flexible product variations, attributes, sizes, and categories.
 
 ---
+## 🤝 Group Members
+1. Brian Richard
 
+2. Rose Kabingu
+
+3. Anifar Mariba
+
+4. Faith Sawe
 ## 🎯 Objective
 
 To design and implement a robust database system that can support an e-commerce platform’s data structure, including:
