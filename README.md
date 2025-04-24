@@ -66,4 +66,4 @@ The ERD visually defines all relationships and constraints between the following
 
 ### 1. Clone the Repository
 https://github.com/anifar-se/e_commerce-database.git
-```bash
+```bashh ttps://github.com/anifar-se/e_commerce-database.git
